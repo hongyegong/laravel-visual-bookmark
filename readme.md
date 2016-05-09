@@ -9,7 +9,6 @@ Visual bookmark organizer application in Laravel
 - Tagging
 - Public bookmark
 - Pinning
-- [Bookmark This Page Chrome Extension](https://chrome.google.com/webstore/detail/bookmark-this-page/hpdkmodablpllphbfkiacbfhhcjgebdk)
 
 ## Used
 
@@ -70,8 +69,4 @@ $ cp phantomjs bin/
 ```
 http://192.168.22.10.xip.io/
 ```
-
-## Additional information
-
-Inspired by and based on [bookmarkly.com](http://bookmarkly.com) & [readtrend.com](http://readtrend.com)
 
