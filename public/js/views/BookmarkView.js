@@ -1,3 +1,7 @@
+// Create view for single bookmark, bind the bookmark model to current view
+// which mean once each bookmark model changes, either bookmark pined or unpined,
+// the view will be updated accordlingly. Also define the initial display and responses 
+// for various events as edit, delete, add tag or pin.
 var BookmarkView = Backbone.View.extend({
 
   events: {

@@ -1,3 +1,7 @@
+// Create view for bookmarks, bind the bookmarks collection to current view
+// which mean once the collections changes, either bookmark added or removed,
+// the view will be updated accordlingly. Also define the initial display and responses 
+// for scrolling action to dynamically create bookmark modal and show more models on current view.
 var BookmarksView = Backbone.View.extend({
 
   initialize: function() {
